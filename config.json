@@ -1,0 +1,16 @@
+{
+    "revision":"030123B",
+    "mirrored_hooks":{
+       "channel_name":"webhook"
+    },
+    "status_hook":"some webhook for status",
+    "slack_keys":{
+        "some_name":"some xoxb token"
+    },
+    "channel_confs":{
+        "channel_name":   {
+            "id":"C<Something>",
+            "key":"some_name"
+        }
+    }
+}
